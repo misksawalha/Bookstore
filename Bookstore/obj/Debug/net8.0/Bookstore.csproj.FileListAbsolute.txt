@@ -138,3 +138,4 @@ C:\Users\hp\source\repos\Bookstore\Bookstore\obj\Debug\net8.0\refint\Bookstore.d
 C:\Users\hp\source\repos\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.pdb
 C:\Users\hp\source\repos\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.genruntimeconfig.cache
 C:\Users\hp\source\repos\Bookstore\Bookstore\obj\Debug\net8.0\ref\Bookstore.dll
+C:\Users\hp\source\repos\Bookstore\Bookstore\obj\Debug\net8.0\Bookstore.sourcelink.json
